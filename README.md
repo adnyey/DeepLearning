@@ -1,3 +1,7 @@
 # Machine Learning & Deep learning Projects
 
-Here are some basic Artificial Neural Network and Convolutional Neural Network examples to get you started with Machine Learning. I did these when I was pursuing a course. 
+Here are some basic examples to get started with Machine Learning. I did these when I was pursuing a course.
+ 1. Artificial Neural Network
+ 2. Convolutional Neural Network
+ 3. K Nearest Neighbor
+ 4. Random Forest
