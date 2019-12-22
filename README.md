@@ -1,3 +1,4 @@
+![](images/neural.png)
 # Machine Learning & Deep learning Projects
 
 Here are some basic examples to get started with Machine Learning. I did these when I was pursuing a course.
